@@ -1,0 +1,37 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "header-1",
+      "type": "rectangle",
+      "x": 40,
+      "y": 40,
+      "width": 720,
+      "height": 60,
+      "strokeColor": "#D4AF37",
+      "backgroundColor": "#12182e",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 0,
+      "opacity": 100
+    },
+    {
+      "id": "header-text",
+      "type": "text",
+      "x": 60,
+      "y": 55,
+      "text": "ZODIAK TV — AWS Cloud Infrastructure Architecture",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top"
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#0a1128",
+    "gridSize": 20
+  },
+  "files": {}
+}
