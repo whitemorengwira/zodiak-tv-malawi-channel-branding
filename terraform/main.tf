@@ -4,7 +4,7 @@
 # Project: ZODIAK TV (Channel Branding · Malawi National Terrestrial & Satellite)
 # ------------------------------------------------------------------------------
 # NOTE: This configuration serves as an architectural reference implementation
-# demonstrating how the media workflow is engineered on AWS with enterprise security,
+# demonstrating how I engineer media workflows on AWS with enterprise security,
 # KMS encryption, IAM least privilege, and S3 lifecycle automation.
 # ==============================================================================
 

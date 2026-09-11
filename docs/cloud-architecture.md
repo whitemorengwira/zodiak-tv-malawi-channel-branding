@@ -1,7 +1,7 @@
 # AWS Cloud Architecture Deep Dive — ZODIAK TV
 
-## 1. Storage Architecture (Amazon S3)
-The S3 storage topology uses deliberate prefix partitioning:
+## 1. My S3 Storage Architecture
+I structure S3 storage topology using deliberate prefix partitioning:
 ```
 s3://nwhite-zodiak-tv-malawi-channel-branding-production/
 ├── 01_pre_production/
@@ -9,7 +9,7 @@ s3://nwhite-zodiak-tv-malawi-channel-branding-production/
 ├── 03_proxies/
 ├── 04_project_files/
 ├── 05_sound_stems/
-├── 06_color_renders/
+├── 06_colour_renders/
 ├── 07_qc_reports/
 ├── 08_masters/
 └── 09_marketing_promos/
@@ -22,5 +22,5 @@ Raw Ingest (S3) ──> Event Notification ──> AWS Lambda (FFmpeg Layer) ─
 ```
 
 ## 3. Observability & Auditing
-* **Amazon CloudWatch**: Monitors S3 bucket size, Lambda duration, and ingest transfer speed.
-* **AWS CloudTrail**: Records every GetObject and PutObject call for intellectual property traceability.
+* **Amazon CloudWatch**: I monitor S3 bucket growth, Lambda execution duration, and ingest transfer speed.
+* **AWS CloudTrail**: I record every GetObject and PutObject call for intellectual property traceability.

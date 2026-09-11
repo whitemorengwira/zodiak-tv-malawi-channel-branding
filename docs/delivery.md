@@ -4,7 +4,7 @@
 * **Video Format**: Apple ProRes 422 HQ / Avid DNxHD 175x (as required by network)
 * **Resolution**: 1920x1080 / 3840x2160
 * **Framerate**: 25.00 fps (PAL Broadcast standard)
-* **Color Space**: Rec.709 / Rec.2020 (Gamma 2.4)
+* **Colour Space**: Rec.709 / Rec.2020 (Gamma 2.4)
 
 ## 2. Audio Standards
 * **Target Loudness**: -23.0 LUFS integrated (EBU R128 specification)
@@ -16,4 +16,4 @@
   * Ch 4: Stereo Right (M&E - Music & Effects)
 
 ## 3. Quality Assurance Certification
-Each delivered master includes an automated QC report certifying zero flash frames, zero out-of-gamut pixels, and compliant audio loudness.
+I certify zero flash frames, zero out-of-gamut pixels, and compliant audio loudness for every delivered master with automated verification logs.
