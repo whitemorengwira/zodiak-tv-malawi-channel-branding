@@ -13,12 +13,12 @@
     </marker>
   </defs>
 
-  <!-- Title & Scope Header -->
+  <!-- Title and Scope Header -->
   <rect x="30" y="24" width="840" height="60" rx="0" fill="#12182e" stroke="#D4AF37" stroke-width="1.5"/>
   <text x="50" y="50" fill="#D4AF37" font-size="14" font-weight="700" letter-spacing="1.5">AWS REFERENCE ARCHITECTURE · PRODUCTION WORKFLOW ENGINE</text>
   <text x="50" y="68" fill="#94A3B8" font-size="11">Production: ZODIAK TV | Network: Channel Branding · Malawi National Terrestrial &amp; Satellite | IaC: Terraform</text>
 
-  <!-- Section 1: Ingest & Encryption Layer -->
+  <!-- Section 1: Ingest and Encryption Layer -->
   <rect x="30" y="105" width="260" height="220" rx="0" fill="url(#cardGrad)" stroke="#334155" stroke-width="1"/>
   <rect x="30" y="105" width="260" height="28" rx="0" fill="#1e293b"/>
   <text x="42" y="124" fill="#F8FAFC" font-size="11" font-weight="600">01 / INGEST &amp; STORAGE VAULT</text>
@@ -52,7 +52,7 @@
   <text x="345" y="259" fill="#38BDF8" font-size="10" font-weight="600">AI Metadata &amp; Audio QC</text>
   <text x="345" y="273" fill="#64748B" font-size="9">Transcription, scene cues, loudness scan</text>
 
-  <!-- Section 3: Delivery & Operations -->
+  <!-- Section 3: Delivery and Operations -->
   <rect x="610" y="105" width="260" height="220" rx="0" fill="url(#cardGrad)" stroke="#334155" stroke-width="1"/>
   <rect x="610" y="105" width="260" height="28" rx="0" fill="#1e293b"/>
   <text x="622" y="124" fill="#F8FAFC" font-size="11" font-weight="600">03 / MASTERING &amp; DISTRIBUTION</text>
@@ -73,7 +73,7 @@
   <line x1="290" y1="165" x2="330" y2="165" stroke="#D4AF37" stroke-width="2" marker-end="url(#arrow)"/>
   <line x1="580" y1="165" x2="620" y2="165" stroke="#D4AF37" stroke-width="2" marker-end="url(#arrow)"/>
 
-  <!-- Lower Governance & Observability Bar -->
+  <!-- Lower Governance and Observability Bar -->
   <rect x="30" y="345" width="840" height="105" rx="0" fill="#12182e" stroke="#334155" stroke-width="1"/>
   <text x="50" y="370" fill="#D4AF37" font-size="11" font-weight="700">CROSS-CUTTING GOVERNANCE &amp; OBSERVABILITY</text>
   

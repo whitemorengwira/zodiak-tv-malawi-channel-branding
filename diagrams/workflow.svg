@@ -25,7 +25,7 @@
     <text x="187" y="55" fill="#94A3B8" font-size="9">Camera Media &amp; Audio</text>
     <line x1="325" y1="37" x2="345" y2="37" stroke="#D4AF37" stroke-width="1.5" marker-end="url(#wfArrow)"/>
 
-    <!-- 03 Ingest & S3 -->
+    <!-- 03 Ingest and S3 -->
     <rect x="350" y="0" width="150" height="75" fill="#161d36" stroke="#38BDF8" stroke-width="1.5"/>
     <text x="362" y="20" fill="#38BDF8" font-size="9" font-weight="700">STAGE 03</text>
     <text x="362" y="38" fill="#F8FAFC" font-size="11" font-weight="600">INGEST &amp; CLOUD</text>
@@ -51,14 +51,14 @@
 
   <!-- Stage Row 2 -->
   <g transform="translate(30, 220)">
-    <!-- 06 Colour & DI -->
+    <!-- 06 Colour and DI -->
     <rect x="0" y="0" width="150" height="75" fill="#161d36" stroke="#D4AF37" stroke-width="1.5"/>
     <text x="12" y="20" fill="#D4AF37" font-size="9" font-weight="700">STAGE 06</text>
     <text x="12" y="38" fill="#F8FAFC" font-size="11" font-weight="600">COLOUR &amp; DI</text>
     <text x="12" y="55" fill="#94A3B8" font-size="9">DaVinci Resolve Finishing</text>
     <line x1="150" y1="37" x2="170" y2="37" stroke="#D4AF37" stroke-width="1.5" marker-end="url(#wfArrow)"/>
 
-    <!-- 07 Sound & Graphics -->
+    <!-- 07 Sound and Graphics -->
     <rect x="175" y="0" width="150" height="75" fill="#161d36" stroke="#475569" stroke-width="1"/>
     <text x="187" y="20" fill="#D4AF37" font-size="9" font-weight="700">STAGE 07</text>
     <text x="187" y="38" fill="#F8FAFC" font-size="11" font-weight="600">SOUND &amp; TITLES</text>
@@ -72,7 +72,7 @@
     <text x="362" y="55" fill="#94A3B8" font-size="9">EBU R128 &amp; Gamut Gate</text>
     <line x1="500" y1="37" x2="520" y2="37" stroke="#D4AF37" stroke-width="1.5" marker-end="url(#wfArrow)"/>
 
-    <!-- 09 Mastering & Delivery -->
+    <!-- 09 Mastering and Delivery -->
     <rect x="525" y="0" width="150" height="75" fill="#161d36" stroke="#F43F5E" stroke-width="1.5"/>
     <text x="537" y="20" fill="#F43F5E" font-size="9" font-weight="700">STAGE 09</text>
     <text x="537" y="38" fill="#F8FAFC" font-size="11" font-weight="600">DELIVERY</text>
