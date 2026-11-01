@@ -1,3 +1,7 @@
+![ZODIAK TV — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # ZODIAK TV — Production Engineering & Workflow Architecture
 ## Channel Branding · Malawi National Terrestrial & Satellite · Channel Branding · Client: Zodiak Broadcasting Station
 
